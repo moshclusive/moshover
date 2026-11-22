@@ -1,6 +1,6 @@
 # Contributing to moshover
 
-Thanks for helping make moshover better. The source code is not published in this repo, so contributions here are bug reports, ideas and documentation improvements.
+Thanks for helping make moshover better. Contributions here are bug reports, ideas and documentation improvements.
 
 ## How to Contribute
 
